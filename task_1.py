@@ -1,2 +1,6 @@
-1input("ismingizni kiriting:")
-print("salom," ism + "!")
+#######################
+#### TASK 1 ###########
+#######################
+
+name = input("Enter your name: ")
+print(f"Hi {name}")
